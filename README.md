@@ -1,2 +1,2 @@
 # flash-card-project-python
-Using Tkinter Module &amp; Quizzler API 
+Using Tkinter Module &amp; Pandas
